@@ -4,8 +4,11 @@
     <section class="sidebar waves">
         <nav class="sidebar__contents">
             <div class="sidebar__logo">
-                <a href="https://spatie.be" target="spatie">
+                {{-- <a href="https://spatie.be" target="spatie">
                     @include('svg.logo')
+                </a> --}}
+                <a href="/" target="spatie">
+                    @include('qodehub-title-case')
                 </a>
             </div>
             <div class="sidebar__home">
