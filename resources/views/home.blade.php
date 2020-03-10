@@ -4,7 +4,7 @@
             <div class="home__header__inner">
                 <div class="home__logo">
                     <a href="/" target="spatie">
-                        @include('qodehub-uppercase')
+                        @include('svg.qodehub-uppercase')
                     </a>
                 </div>
                 <h1 class="home__title">
