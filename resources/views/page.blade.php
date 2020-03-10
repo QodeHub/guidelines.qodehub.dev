@@ -8,7 +8,7 @@
                     @include('svg.logo')
                 </a> --}}
                 <a href="/" target="spatie">
-                    @include('svg.qodehub-title-case')
+                    <img src="/images/qodehub-png-caps.png">
                 </a>
             </div>
             <div class="sidebar__home">

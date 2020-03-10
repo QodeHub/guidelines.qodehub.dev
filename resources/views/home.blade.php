@@ -3,8 +3,8 @@
         <header class="home__header waves">
             <div class="home__header__inner">
                 <div class="home__logo">
-                    <a href="/" target="spatie">
-                        @include('svg.qodehub-uppercase')
+                    <a href="/" target="spatie"> 
+                        <img src="/images/qodehub-png-caps.png" height="42px" width="98px">
                     </a>
                 </div>
                 <h1 class="home__title">
