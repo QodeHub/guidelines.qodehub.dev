@@ -7,8 +7,8 @@
                 {{-- <a href="https://spatie.be" target="spatie">
                     @include('svg.logo')
                 </a> --}}
-                <a href="/" target="spatie">
-                    <img src="/images/qodehub-png-caps.png">
+                <a href="/" target="spatie"> 
+                    <img src="/images/qodehub-png-caps.png" height="42px" width="98px">
                 </a>
             </div>
             <div class="sidebar__home">
